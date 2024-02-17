@@ -1,5 +1,5 @@
 # alexisprestonAI
-This project develops an automated system for generating and posting tech reviews on Twitter, embodied by the AI persona "Alexis Preston" using Newspapers3k and OpenAI's API. 
+This project develops an automated system for generating tech reviews on Twitter, embodied by the AI persona "Alexis Preston" using Newspapers3k and OpenAI's API. 
 
 ### Methods and Technologies Used:
 - Content Generation with OpenAI's GPT: Utilizing OpenAI's GPT model, the project crafts detailed and personalized reviews based on articles collected from various tech news sources. The AI model is fine-tuned to Alexis's unique voice, ensuring each review is honest, critical, fun, and occasionally sarcastic, while demonstrating a deep understanding of technology.
